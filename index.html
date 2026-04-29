@@ -293,9 +293,9 @@
           <div class="src-icon" style="background:#E3F0FF">🔍</div>
           <div><div class="src-name">Google</div><div class="src-desc">Image search</div></div>
         </div>
-        <div class="src" data-val="stickerly" data-color="#FF8C00" data-name="Stickerly">
-          <div class="src-icon" style="background:#FFF0D6">🎨</div>
-          <div><div class="src-name">Stickerly</div><div class="src-desc">Stickers & decals</div></div>
+        <div class="src" data-val="giphy" data-color="#9933CC" data-name="Giphy">
+          <div class="src-icon" style="background:#F3E0FF">🎭</div>
+          <div><div class="src-name">Giphy</div><div class="src-desc">GIFs & stickers</div></div>
         </div>
         <div class="src" data-val="tenor" data-color="#00A550" data-name="Tenor">
           <div class="src-icon" style="background:#E8FFE8">🎬</div>
@@ -537,7 +537,7 @@
     var urls = {
       pinterest: 'https://www.pinterest.com/search/pins/?q=' + q,
       google:    'https://www.google.com/search?tbm=isch&q=' + q,
-      stickerly: 'https://stickerly.com/sticker-pack?keyword=' + q,
+      giphy:     'https://giphy.com/search/' + query.replace(/ /g, '-'),
       tenor:     'https://tenor.com/search/' + query.replace(/ /g, '-') + '-gifs'
     };
     return urls[src] || '#';
