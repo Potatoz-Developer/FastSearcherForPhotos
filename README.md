@@ -5,10 +5,9 @@
 ![Platform](https://img.shields.io/badge/platform-web-3A7BD5?style=for-the-badge)
 ![Made with](https://img.shields.io/badge/made%20with-HTML%20%2B%20JS-7C5CBF?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-free-D4477E?style=for-the-badge)
-![Fast](https://img.shields.io/badge/speed-fast⚡-E85D2F?style=for-the-badge)
 
 PREVIEW;
-![Preview](https://via.placeholder.com/800x400?text=FastSearcher+Preview)
+![Preview](https://potatoz-developer.github.io/FastSearcherForPhotos/)
 
 FastSearcherForPhotos is a fast and simple web tool to find images and GIFs instantly based on theme, style, and source.
 
@@ -37,7 +36,7 @@ FastSearcherForPhotos is a fast and simple web tool to find images and GIFs inst
 ## Live Website
 
 Access the project here:
-👉 [Open FastSearcher](https://potatoz-developer.github.io/fastsearcherforphotos/)
+👉 [Open FastSearcher](https://potatoz-developer.github.io/FastSearcherForPhotos/)
 ## 🛠 Upcoming (v1.1)
 
 * Fix for a small issue in the search system
